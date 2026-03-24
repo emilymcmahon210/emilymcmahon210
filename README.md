@@ -12,7 +12,7 @@
 <p align="center">
 
 
-**[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20CLCK%20ME%20FOR%20A%20SURPRISE-ff69b4?style=for-the-badge)](https://emilymcmahon210.github.io/spin-with-emily/))
+**[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20CLCK%20ME%20FOR%20A%20SURPRISE-ff69b4?style=for-the-badge)]([https://emilymcmahon210.github.io/spin-with-emily/)](https://emilymcmahon210.github.io/index.html/))
 **
 </p>
   </a>
