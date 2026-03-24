@@ -20,3 +20,12 @@
      
 
 
+## Tools & Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-ff85a2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-d63384?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-f8a5c2?style=for-the-badge" />
+</p>
