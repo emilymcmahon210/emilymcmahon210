@@ -12,7 +12,7 @@
 <p align="center">
 
 
-**[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20Spin%20the%20Kindness%20Wheel-ff69b4?style=for-the-badge)]([YOUR_LINK_HERE](https://emilymcmahon210.github.io/spin-with-emily/))
+**[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20CLCK%20ME%20FOR%20A%20SURPRISE-ff69b4?style=for-the-badge)](https://emilymcmahon210.github.io/spin-with-emily/))
 **
 </p>
   </a>
