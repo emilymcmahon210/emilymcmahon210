@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://emilymcmahon210.github.io/spin-with-emily/">
-    <img src="YOUR_GIF_LINK_HERE" width="250"/>
-  </a>
-</p>
 
+
+**[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20Spin%20the%20Kindness%20Wheel-ff69b4?style=for-the-badge)]([YOUR_LINK_HERE](https://emilymcmahon210.github.io/spin-with-emily/))
+**
+</p>
   </a>
   <a href="YOUR_PROJECT_LINK">
     <img src="https://img.shields.io/badge/📊%20Featured%20Project-ff69b4?style=for-the-badge" />
