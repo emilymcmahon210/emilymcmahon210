@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://emilymcmahon210.github.io/spin-with-emily/">
-    <img src="https://img.shields.io/badge/💖%20Click%20Me%20for%20a%20Smile-ff85a2?style=for-the-badge" />
+    <img src="YOUR_GIF_LINK_HERE" width="250"/>
   </a>
 </p>
 
