@@ -1,14 +1,22 @@
-## Hi there, I'm Emily👋
+<h1 align="center">Hi, I'm Emily 💗</h1>
 
-Welcome to my GitHub Profile! 
+<p align="center">
+  Veteran • MBA • Current MS Business Analytics Student • Business + Tech + Strategy
+</p>
 
-Veteran, MBA and current MS Business Analytics student. I enjoy solving complex business problems using data, machine learning and strategic analysis. 
+<p align="center">
+  I enjoy solving complex business problems using data, machine learning and strategic analysis. My interests include AI Strategy, business intellignce and predictive modeling.
+   
+</p>
 
-My interests include AI strategy, business intelligence and predictive modeling. 
+<p align="center">
+  <a href="YOUR_GITHUB_PAGES_LINK_HERE">
+    <img src="https://img.shields.io/badge/🎡%20Spin%20My%20Vibe-ff69b4?style=for-the-badge" />
+  </a>
+</p>
 
-🌱 I’m currently working on: 
-   - Developing stronger SQL and Python skills
-   - Building up analytics projects and my portfolio
+## Featured Projects
+- [Spotify Churn Analysis](YOUR_REPO_LINK)
      
 
 
