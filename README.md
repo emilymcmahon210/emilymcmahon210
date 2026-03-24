@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_GITHUB_PAGES_LINK_HERE">
-    <img src="https://img.shields.io/badge/🎡%20Spin%20My%20Vibe-ff69b4?style=for-the-badge" />
+  <a href="https://emilymcmahon210.github.io/spin-with-emily/">
+    <img src="https://img.shields.io/badge/💖%20Click%20Me%20for%20a%20Smile-ff85a2?style=for-the-badge" />
   </a>
 </p>
 
