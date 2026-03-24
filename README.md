@@ -15,10 +15,16 @@
   </a>
 </p>
 
-## Featured Projects
-- [Spotify Churn Analysis](YOUR_REPO_LINK)
+  </a>
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://img.shields.io/badge/📊%20Featured%20Project-ff69b4?style=for-the-badge" />
+  </a>
+</p>
      
-
+## Currently Working On
+- Strengthening SQL and Python
+- Building analytics portfolio projects
+- Exploring predictive modeling
 
 ## Tools & Skills
 
