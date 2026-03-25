@@ -10,16 +10,20 @@
 </p>
 
 
-
+<center>
 
 [![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20CLICK%20ME%20FOR%20A%20SURPRISE-ff69b4?style=for-the-badge)](https://emilymcmahon210.github.io/)
   </a>
+  </center>
+  
 </p>
 </p>
   </a>
+  <center>
   <a href="YOUR_PROJECT_LINK">
     <img src="https://img.shields.io/badge/📊%20Featured%20Project-ff69b4?style=for-the-badge" />
   </a>
+    </center>
 </p>
      
 ## Currently Working On
