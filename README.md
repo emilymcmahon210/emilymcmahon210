@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emily 💗</h1>
 
 <p align="center">
-  Veteran • MBA • Current MS Business Analytics Student • Business + Tech + Strategy
+  Veteran • MBA • Current MS Business Analytics Student • Business Strategy
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
      
 ## Currently Working On
-- Strengthening SQL and Python
+- Strengthening SQL and Python skills
 - Building analytics portfolio projects
 - Exploring predictive modeling
 
