@@ -9,18 +9,17 @@
    
 </p>
 
-
-<center>
-
-[![🎀 CLICK ME FOR A SURPRISE 🎀](https://img.shields.io/badge/🎀%20CLICK%20ME%20FOR%20A%20SURPRISE-ff69b4?style=for-the-badge)]([https://emilymcmahon210.github.io/](https://emilymcmahon210.github.io/index.html/])
+<p align="center">
+  <a href="https://emilymcmahon210.github.io/">
+    <img src="https://img.shields.io/badge/🎀%20CLICK%20ME%20FOR%20A%20SURPRISE%20🎀-ff69b4?style=for-the-badge" />
   </a>
-  </center>
+</p>
   
 </p>
 </p>
   </a>
   <center>
-  <a href="YOUR_PROJECT_LINK">
+  <a href="(https://github.com/emilymcmahon210/Spotify-Churn-Analysis)">
     <img src="https://img.shields.io/badge/📊%20Featured%20Project-ff69b4?style=for-the-badge" />
   </a>
     </center>
