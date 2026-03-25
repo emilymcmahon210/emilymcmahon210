@@ -20,15 +20,15 @@
   </a>
 <p align="center">
   <a href="https://github.com/emilymcmahon210/Spotify-Churn-Analysis">
-    <img src="https://img.shields.io/badge/📊%20FEATURED%20PROJECT-ff69b4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%20FEATURED%20PROJECT-ff69b4?style=for-the-badge" />
   </a>
 </p>
 </p>
      
 ## Currently Working On
-- Strengthening SQL and Python skills
-- Building analytics portfolio projects
-- Exploring predictive modeling
+- Strengthening SQL & Python skills for data analysis
+- Building end-to-end analytics projects
+- Exploring predictive modeling for business applications
 
 ## Tools & Skills
 
