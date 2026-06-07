@@ -5,16 +5,8 @@
 
 
 <div align="center"> 
-  <img src="https://giffiles.alphacoders.com/919/91986.gif" width="1500" height= "800"> </div> 
-
-  
-  <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=DCC9B6&reversal=true"/> 
+  <img src="https://giffiles.alphacoders.com/919/91986.gif" width="1500" height= "600"> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=E6D5CE&reversal=true"/> 
 </div>
-
-
- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=E6D5CE&reversal=true"/> 
-</div>
-
 
 
 <h1 align="center">Welcome, I'm Emily 🤍 </h1>
@@ -26,7 +18,7 @@ US Air Force Veteran, MBA graduate, novice coder, and current MS Business Analyt
 </div>
 
 
-<h2 align="center">Tools & Skills</h2>
+<h3 align="center">Tools & Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-EDE0D4?style=for-the-badge&logo=python&logoColor=black">
@@ -43,27 +35,45 @@ US Air Force Veteran, MBA graduate, novice coder, and current MS Business Analyt
   <img src="https://img.shields.io/badge/Statistical%20Analysis-E6D5CE?style=for-the-badge&logoColor=black">
 </p>
 
-E6D5CE
+<b>
 
 
-### Check out the links below for some of my Projects⤵︎
+## Check out some of my recent projects⤵︎
+</b>
 
-Stock Price Reaction to Earnings Announcements
+#### 📈 Stock Price Reaction to Earnings Announcements
+Can earnings surprise metrics predict stock price movement after earnings releases?  
 
-Can earnings surprise metrics predict stock price movement after earnings releases?
-
-[View Repository] [Project Report]
-
-Python | Pandas | NumPy | Scikit-Learn | Machine Learning | Financial Analytics
-
-
-## Tools & Skills
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+</a>
 
 
-Python • SQL • Machine Learning • Predictive Modeling • Statistical Analysis • Tableau • Power BI • Excel
-• Pandas • NumPy • Scikit-Learn • Matplotlib
+#### 🧑‍🧑‍🧒‍🧒 Customer Segmentation Analysis  
+Using clustering techniques to identify customer groups and support more targeted marketing strategies.
+
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+</a>
+
+<div align="center">
+
 
 ## Connect With Me
 
-LinkedIn
-Email
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/000000" width="35" />
+  </a>
+
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+  </a>
+</p>
+
+
+</div>
