@@ -1,41 +1,34 @@
-<h1 align="center">Hi, I'm Emily 💗</h1>
 
 <p align="center">
-  Veteran • MBA • Current MS Business Analytics Student • Business Strategy
+  <img src=banner.jpg width="100%">
 </p>
 
-<p align="center">
-  I enjoy solving complex business problems using data, machine learning and strategic analysis. My interests include AI Strategy, business intellignce and predictive modeling.
-   
-</p>
 
-<p align="center">
-  <a href="https://emilymcmahon210.github.io/">
-    <img src="https://img.shields.io/badge/🎀%20CLICK%20ME%20FOR%20A%20SURPRISE%20🎀-ff69b4?style=for-the-badge" />
-  </a>
-</p>
-  
-</p>
-</p>
-  </a>
-<p align="center">
-  <a href="https://github.com/emilymcmahon210/Spotify-Churn-Analysis">
-    <img src="https://img.shields.io/badge/%20FEATURED%20PROJECT-ff69b4?style=for-the-badge" />
-  </a>
-</p>
-</p>
+
+<table>
+<tr>
+<td>
+<div align="center">
+
+
+
+# Hi, I'm Emily 🤍
+
+USAF Veteran • MBA • Business Analytics
+
+Currently pursuing a Master's in Business Analytics while building machine learning and data analytics problems. I enjoy solving complex business problems using data and strategic analysis.
+
+</td>
+</tr>
+</table>
+</div>
+
+
      
-## Currently Working On
-- Strengthening SQL & Python skills for data analysis
-- Building end-to-end analytics projects
-- Exploring predictive modeling for business applications
+## Feature Projects
+
 
 ## Tools & Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-ff85a2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-d63384?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-f8a5c2?style=for-the-badge" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
