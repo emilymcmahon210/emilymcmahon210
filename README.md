@@ -44,7 +44,7 @@ US Air Force Veteran, MBA graduate, novice coder, and current MS Business Analyt
 #### 📈 Stock Price Reaction to Earnings Announcements
 Can earnings surprise metrics predict stock price movement after earnings releases?  
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/emilymcmahon210/Stock-Price-Prediction">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
@@ -52,7 +52,7 @@ Can earnings surprise metrics predict stock price movement after earnings releas
 #### 🧑‍🧑‍🧒‍🧒 Customer Segmentation Analysis  
 Using clustering techniques to identify customer groups and support more targeted marketing strategies.
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/emilymcmahon210/Spotify-Churn-Analysis">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
@@ -62,15 +62,15 @@ Using clustering techniques to identify customer groups and support more targete
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/emily-mcmahon1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:emilymcmahon210@yahoo.comO">
     <img src="https://cdn.simpleicons.org/gmail/000000" width="35" />
   </a>
 
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/emilymcmahon210">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
   </a>
 </p>
