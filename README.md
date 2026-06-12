@@ -49,10 +49,18 @@ Can earnings surprise metrics predict stock price movement after earnings releas
 </a>
 
 
-#### 🧑‍🧑‍🧒‍🧒 Customer Segmentation Analysis  
+#### 🧑‍🧑‍🧒‍🧒 Spotify Churn Analysis  
 Using clustering techniques to identify customer groups and support more targeted marketing strategies.
 
 <a href="https://github.com/emilymcmahon210/Spotify-Churn-Analysis">
+  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+</a>
+
+
+#### 🧪All Other Data Science Projects 
+A collection of projects each demonstrating different aspects of data analysis, machine learning and visualization.
+
+<a href="https://github.com/emilymcmahon210/Data-Science-Projects">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
